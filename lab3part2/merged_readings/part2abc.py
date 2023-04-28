@@ -25,7 +25,7 @@ def countMatchTranscripts(inputRead):
                     partBcount += 1
                 if (class_code == "u"):
                     partCcount += 1 
-                    
+    print(totalCount)               
     return partAcount, partBcount, partCcount
 
 
