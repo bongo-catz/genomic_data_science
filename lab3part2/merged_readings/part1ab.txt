@@ -1,0 +1,2 @@
+Total number of transcripts found: 9947
+Total number of unique gene IDs found: 2926

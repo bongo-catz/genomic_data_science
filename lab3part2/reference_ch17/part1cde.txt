@@ -1,0 +1,3 @@
+Total number of transcripts found: 8324
+Total number of transcripts that correspond to protein_coding found: 5770
+Total number of unique gene IDs that correspond to protein_coding found: 1323

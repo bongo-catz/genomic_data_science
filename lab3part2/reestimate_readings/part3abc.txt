@@ -1,0 +1,5 @@
+File with Highest TPM: SRR479070_aligned_reestimate.gtf
+Highest TPM: 64376.265625
+Line with highest TPM: ['chr17', 'StringTie', 'transcript', '81509971', '81512851', '1000', '-', '.', 'gene_id "MSTRG.1643"; transcript_id "CHS.23541.3"; ref_gene_name "ACTG1"; cov "6350.230957"; FPKM "19994.509766"; TPM "64376.265625";']
+Distinct transcripts with TPM > 0: 6605
+Distinct genes with TPM > 0: 1728

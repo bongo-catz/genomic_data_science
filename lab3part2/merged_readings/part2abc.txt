@@ -1,0 +1,3 @@
+Total number of transcripts that match with introns from reference: 8149
+Total number of novel transcripts: 1755
+Total number of novel transcripts that occur at entirely novel locations : 43

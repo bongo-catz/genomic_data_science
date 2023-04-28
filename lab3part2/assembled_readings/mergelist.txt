@@ -1,0 +1,11 @@
+SRR479052_aligned.gtf  
+SRR479058_aligned.gtf  
+SRR479066_aligned.gtf  
+SRR479073_aligned.gtf
+SRR479054_aligned.gtf  
+SRR479061_aligned.gtf  
+SRR479068_aligned.gtf 
+SRR479076_aligned.gtf
+SRR479056_aligned.gtf  
+SRR479064_aligned.gtf  
+SRR479070_aligned.gtf
